@@ -1,0 +1,3390 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+	<!-- ******************************************************************** -->
+	<TV>
+		<Channel>
+			<Item Name="1-2-3.tv" />
+			<File>1-2-3.tv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="1-2-3.tv HD" />
+			<File>1-2-3.tv HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="13th Street" />
+			<Item Name="13 th Street" />
+			<Item Name="13 th Street (KD)" />
+			<File>13th Street.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="13th Street HD" />
+			<File>13th Street HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3+ HD" />
+			<File>3plus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3+" />
+			<File>3plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3sat HD" />
+			<File>3sat HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3sat" />
+			<File>3sat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="4+ HD" />
+			<File>4plus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="4+" />
+			<File>4plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="9Live" />
+			<File>9Live.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="A&amp;E" />
+			<File>A_E.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="A&amp;E HD" />
+			<File>A_E HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Al Jazeera International" />
+			<Item Name="Al Jazeera" />
+			<File>Al Jazeera.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Alex Berlin" />
+			<File>Alex Berlin.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="alpenglühen tvx" />
+			<File>alpengluehen tvx.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Animal Planet" />
+			<File>Animal Planet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Animal Planet HD" />
+			<File>Animal Planet HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Animax" />
+			<Item Name="Animax (a_S)" />
+			<File>Animax.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Anixe HD" />
+			<File>Anixe HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Anixe SD" />
+			<File>Anixe SD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ARD-alpha">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="ARD alpha">
+				<Provider>UPC Tirol</Provider>
+			</Item>
+			<File>ARD-alpha.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="arena" />
+			<File>arena.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="arte HD" />
+			<File>arte HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="arte" />
+			<File>arte.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="arte_extra" />
+			<File>arte_extra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="arte_festival" />
+			<File>arte_festival.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ASTRA Vision" />
+			<Item Name="ASTRA HD" />
+			<File>ASTRA Vision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Astro TV" />
+			<Item Name="AstroTV" />
+			<File>Astro TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ATV" />
+			<Item Name="ATV+" />
+			<File>ATV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ATV HD" />
+			<File>ATV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ATV Avrupa" />
+			<File>ATV Avrupa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="atv2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="ATV II">
+				<Provider>UPC Tirol</Provider>
+			</Item>
+			<File>atv2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AUSTRIA 9 TV" />
+			<File>AUSTRIA 9 TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Auto Motor Sport" />
+			<Item Name="auto motor und sport channel">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Auto Motor Sport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Auto Motor und Sport TV HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Auto Motor und Sport Channel HD">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Auto Motor und Sport Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AXN" />
+			<Item Name="AXN (a_S)" />
+			<Item Name="AXN Action" />
+			<File>AXN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AXN HD" />
+			<File>AXN HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Baden TV">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Baden TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BabyTV">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>BabyTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC Entertainment" />
+			<File>BBC Entertainment.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC World News" />
+			<Item Name="BBC World" />
+			<Item Name="BBC World News (engl)">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>BBC World News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC" />
+			<File>BBC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BN Sat (scr)" />
+			<File>BN Sat (scr).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BR-Fernsehen" />
+			<File>BR-Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BR HD" />
+			<Item Name="BR NORD HD" />
+			<Item Name="BR SÜD HD" />
+			<Item Name="BR-Fernsehen HD" />
+			<Item Name="Bayerisches Fernsehen Süd HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>BR HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BR-alpha" />
+			<Item Name="BR-alpha_" />
+			<File>BR-alpha.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bahn TV" />
+			<File>Bahn TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Basketball NBA" />
+			<File>Basketball NBA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bayerisches FS" />
+			<Item Name="Bayerisches FS Nord" />
+			<Item Name="Bayerisches FS Süd" />
+			<File>Bayerisches FS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Beate-Uhse.TV" />
+			<File>Beate-Uhse.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bibel TV" />
+			<Item Name="BibelTV" />
+			<File>Bibel TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bibel TV HD" />
+			<File>Bibel TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Biography Channel" />
+			<File>Biography Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bloomberg" />
+			<Item Name="Bloomberg TV Germany" />
+			<Item Name="Bloomberg European TV" />
+			<Item Name="Bloomberg Europa TV" />
+			<File>Bloomberg.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Blue Movie 1" />
+			<File>Blue Movie 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Blue Movie 2" />
+			<File>Blue Movie 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Blue Movie 3" />
+			<File>Blue Movie 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Blue Movie" />
+			<File>Blue Movie.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BLUE MOVIE HD" />
+			<File>BLUE MOVIE HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Body in Balance" />
+			<File>Body in Balance.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="bon gusto" />
+			<Item Name="BonGusto" />
+			<File>bon gusto.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bon Gusto HD" />
+			<Item Name="BonGusto HD" />
+			<File>Bon Gusto HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Boomerang" />
+			<Item Name="Boomerang (a_S)" />
+			<Item Name="Boomerang (engl)">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Boomerang.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Boomerang HD" />
+			<File>Boomerang HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bundesliga" />
+			<Item Name="BL Konferenz" />
+			<Item Name="2. Liga Konf." />
+			<Item Name="2. Liga" />
+			<File>Bundesliga.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BTV" />
+			<File>BTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CCTV NEWS" />
+			<File>CCTV NEWS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNBC Europe" />
+			<Item Name="CNBC" />
+			<File>CNBC Europe.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNN International" />
+			<Item Name="CNN International HD" />
+			<Item Name="CNN Int." />
+			<Item Name="CNN" />
+			<File>CNN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Campus TV HD" />
+			<Item Name="HD Campus TV">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Campus TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 24 horas" />
+			<File>Canal 24 horas.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cartoon Network" />
+			<Item Name="Cartoon Network (S)" />
+			<Item Name="Cartoon Network (a_S)" />
+			<File>Cartoon Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cartoon Network HD" />
+			<File>Cartoon Network HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Center.tv Köln" />
+			<File>Center.tv Koeln.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Champ. League" />
+			<Item Name="CL Konferenz" />
+			<Item Name="CL-Konferenz" />
+			<File>Champ. League.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="channel21" />
+			<Item Name="channel 21" />
+			<Item Name="Channel 21 (ALT)" />
+			<Item Name="Channel 21 ALT" />
+			<File>channel21.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="classica" />
+			<File>classica.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Classica HD" />
+			<File>Classica HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="collection" />
+			<File>collection.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="COMEDY CENTRAL Germany" />
+			<File>COMEDY CENTRAL Germany.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy Central/VIVA" />
+			<Item Name="Comedy Central/VIVA AT" />
+			<File>ComedyCentral VIVA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy Central/VIVA HD" />
+			<Item Name="Comedy Central/VIVA HD AT" />
+			<Item Name="COMEDY CENTRAL HD/VIVA HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>ComedyCentral VIVA HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DFB Konferenz" />
+			<Item Name="DFB-Konf." />
+			<File>DFB Konferenz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DMAX" />
+			<File>DMAX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="dmaxhd" />
+			<Item Name="DMAX HD" />
+			<File>dmaxhd.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DSF" />
+			<File>DSF.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DW-TV" />
+			<File>DW-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Daf Anleger TV" />
+			<Item Name="DAF-AnlegerTV">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Daf Anleger TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Das Erste HD" />
+			<File>Das Erste HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Das Erste" />
+			<File>Das Erste.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Das Vierte" />
+			<File>Das Vierte.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Daystar TV" />
+			<File>Daystar TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deluxe Lounge HD" />
+			<File>Deluxe Lounge HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deluxe Music" />
+			<File>Deluxe Music.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deluxe Music HD" />
+			<File>Deluxe Music HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deutsche Welle TV" />
+			<File>Deutsche Welle TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deutsches Gesundheitsfernsehen" />
+			<File>Deutsches Gesundheitsfernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deutsches Musik Fernsehen" />
+			<File>Deutsches Musik Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Wetter Fernsehen" />
+			<Item Name="Deutsches Wetterfernsehen" />
+			<Item Name="Deutsches Wetter Fernsehen" />
+			<File>Deutsches Wetter Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Die Neue Zeit TV" />
+			<File>Die Neue Zeit TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Channel HD" />
+			<Item Name="Discovery HD" />
+			<File>Discovery Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Channel" />
+			<File>Discovery Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Geschichte" />
+			<File>Discovery Geschichte.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Channel HD" />
+			<Item Name="Disney HD">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Disney Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Channel" />
+			<Item Name="Disney SD">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Disney Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Cinemagic HD" />
+			<File>Disney Cinemagic HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Cinemagic" />
+			<File>Disney Cinemagic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Junior" />
+			<File>Disney Junior.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Junior HD" />
+			<File>Disney Junior HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney XD" />
+			<File>Disney XD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney XD HD" />
+			<File>Disney XD HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Doku_KiKa" />
+			<File>Doku_KiKa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="dorcel tv" />
+			<File>dorcel tv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DrDishTV" />
+			<Item Name="DrDish Television" />
+			<Item Name="Dr.DishTV-Welt der Technik" />
+			<File>DrDishTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DRF 1" />
+			<File>DRF 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="E! Entertainment" />
+			<File>E! Entertainment.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="E! Entertainm. HD" />
+			<File>E! Entertainm. HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="e.clips" />
+			<Item Name="e.clips (S)" />
+			<File>e.clips.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EnjoyTheAlpsTV HD" />
+			<File>EnjoyTheAlpsTV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ERF Eins" />
+			<File>ERF Eins.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ERT World" />
+			<File>ERT World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN America HD" />
+			<File>ESPN America HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN America" />
+			<Item Name="ESPN America (S)" />
+			<File>ESPN America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN Classic" />
+			<File>ESPN Classic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EinsExtra" />
+			<File>EinsExtra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EinsFestival HD" />
+			<File>EinsFestival HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EinsFestival" />
+			<File>EinsFestival.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EinsPlus" />
+			<File>EinsPlus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EinsPlus HD" />
+			<File>EinsPlus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eishockey DEL" />
+			<Item Name="Live Eishockey" />
+			<File>Eishockey DEL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Euro D" />
+			<File>Euro D.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Euro Star" />
+			<File>Euro Star.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EuroNews" />
+			<Item Name="euronews (D)">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>EuroNews.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Europa League" />
+			<Item Name="EL Konferenz" />
+			<Item Name="EL-Konferenz" />
+			<File>Europa League.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 2 HD" />
+			<File>Eurosport 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 2" />
+			<Item Name="Eurosport 2 (a_S)" />
+			<Item Name="Eurosport 2 Deutschland" />
+			<File>Eurosport 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 360 HD 1" />
+			<File>Eurosport 360 HD 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 360 HD 2" />
+			<File>Eurosport 360 HD 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 360 HD 3" />
+			<File>Eurosport 360 HD 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 360 HD 4" />
+			<File>Eurosport 360 HD 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 360 HD 5" />
+			<File>Eurosport 360 HD 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 360 HD 6" />
+			<File>Eurosport 360 HD 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 360 HD 7" />
+			<File>Eurosport 360 HD 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 360 HD 8" />
+			<File>Eurosport 360 HD 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 360 HD 9" />
+			<File>Eurosport 360 HD 9.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 360 HD 10" />
+			<File>Eurosport 360 HD 10.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport HD" />
+			<File>Eurosport HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport News" />
+			<File>Eurosport News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport" />
+			<Item Name="Eurosport Deutschland" />
+			<File>Eurosport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Extreme Sports" />
+			<File>Extreme Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FAB" />
+			<File>FAB.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fashion One" />
+			<File>Fashion One.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fashion TV" />
+			<File>Fashion TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fashion-TV HD" />
+			<File>Fashion TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="flimmit" />
+			<File>flimmit.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FOCUS Gesundheit" />
+			<File>FOCUS Gesundheit.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Formel 1" />
+			<Item Name="Highlights" />
+			<Item Name="Cockpit" />
+			<Item Name="LIVE Formel 1" />
+			<Item Name="Renndaten" />
+			<Item Name="Silberpfeil" />
+			<File>Formel 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Folx.TV" />
+			<File>Folx TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FOX" />
+			<Item Name="FOX Serie" />
+			<File>FOX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox HD" />
+			<File>Fox HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="france 3 (frz)" />
+			<File>france 3 (frz).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 24 (frz)" />
+			<File>France 24 (frz).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Franken Fernsehen" />
+			<File>Franken Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Franken SAT" />
+			<File>Franken SAT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fußball ENG" />
+			<Item Name="LIVE Fußball ENG" />
+			<File>Fussball ENG.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GIGA" />
+			<File>GIGA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GINX">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<Item Name="Ginx TV">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>GINX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GLITZ" />
+			<Item Name="glitz*">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>GLITZ.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Glitz HD" />
+			<Item Name="glitz* HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Glitz HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GOD Channel" />
+			<File>GOD Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GOLDSTAR TV" />
+			<File>GOLDSTAR TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GoTV" />
+			<File>GoTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Golf" />
+			<Item Name="LIVE Golf" />
+			<File>Golf.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="gute laune TV" />
+			<File>gute laune TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HD Suisse" />
+			<File>HD Suisse.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HIT24" />
+			<File>HIT24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HOPE Channel deutsch" />
+			<File>Hope channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="hr-fernsehen" />
+			<File>hr-fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="hr-fernsehen HD" />
+			<File>HR Fernsehen HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HSE">
+				<Provider>KMS</Provider>
+			</Item>
+			<Item Name="HSE24" />
+			<Item Name="HSE24 Digital" />
+			<File>HSE24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HSE24 TREND" />
+			<File>HSE24 TREND.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HSE24 EXTRA" />
+			<File>HSE24 EXTRA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HSE24 EXTRA HD" />
+			<File>HSE24 EXTRA HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="hse24 hd" />
+			<File>HSE24 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hamburg 1" />
+			<File>Hamburg 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Heimatkanal" />
+			<File>Heimatkanal.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="History HD" />
+			<File>History HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="History" />
+			<Item Name="History Channel" />
+			<File>History.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hitradio OE3" />
+			<File>Hitradio OE3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="hustler" />
+			<File>hustler.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="im1" />
+			<Item Name="iM1 Hits" />
+			<File>im1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="iMusic 1" />
+			<Item Name="iMusic TV" />
+			<Item Name="iMusic" />
+			<File>iMusic 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Info_3sat" />
+			<File>Info_3sat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="intv" />
+			<File>intv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="iTVN (pol)" />
+			<File>iTVN (pol).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="JIM JAM" />
+			<File>Jim Jam.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="JETIX" />
+			<File>JETIX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jena TV">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Jena TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="joiz" />
+			<File>joiz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jukebox" />
+			<File>Jukebox.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Junior" />
+			<File>Junior.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Juwelo TV" />
+			<Item Name="Juwelo">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Juwelo TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="K-TV" />
+			<File>K-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kabel 1 Austria" />
+			<File>Kabel 1 Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kabel 1 Schweiz" />
+			<File>Kabel 1 Schweiz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="kabel eins classics" />
+			<Item Name="Kabel Eins Classic">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>kabel eins classics.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="kabel eins" />
+			<File>kabel eins.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="kabel eins HD" />
+			<File>kabel eins HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kabel Digital Info" />
+			<File>Kabel Digital Info.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 7" />
+			<File>Kanal 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal Avrupa" />
+			<File>Kanal Avrupa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KiKA" />
+			<Item Name="ki.ka" />
+			<File>KiKA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KiKA HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="KI.KA HD">
+				<Provider>UPC Tirol</Provider>
+			</Item>
+			<File>KiKA HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kinowelt TV" />
+			<Item Name="Kinowelt TV (S)" />
+			<File>Kinowelt TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kinowelt TV HD" />
+			<File>Kinowelt TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LT1" />
+			<Item Name="LT1-OOE" />
+			<File>LT1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lig TV" />
+			<File>Lig TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lokalsat" />
+			<File>Lokalsat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lust Pur" />
+			<File>Lust Pur.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lust Pur HD" />
+			<File>Lust Pur HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Luxe TV HD" />
+			<File>Luxe TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mainfranken" />
+			<File>Mainfranken.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MDR Fernsehen" />
+			<File>MDR Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MDR-Fernsehen" />
+			<File>MDR-Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MDR S-ANHALT" />
+			<File>MDR S-ANHALT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MDR SACHSEN" />
+			<File>MDR SACHSEN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MDR THÜRINGEN" />
+			<File>MDR THUERINGEN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MDR Sachsen HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="MDR S-Anhalt HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="MDR Thüringen HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="MDR Fernsehen Thüringen HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="MDR Fernsehen Sachsen HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="MDR HD">
+				<Provider>UPC Tirol</Provider>
+			</Item>
+			<File>MDR Fernsehen HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MediaShop- Neuheiten" />
+			<Item Name="MediaShop- Meine Einkaufswelt" />
+			<Item Name="MediaShop">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>MediaShop.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="mediasparTV">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>mediasparTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="mezzo" />
+			<File>mezzo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MGM" />
+			<File>MGM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MGM HD" />
+			<File>MGM HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Motor TV" />
+			<File>Motor TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="motors tv" />
+			<Item Name="motors.tv" />
+			<File>motors tv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Motorvision TV" />
+			<File>Motorvision TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Austria" />
+			<File>MTV Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Brand New" />
+			<File>MTV Brand New.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV DANCE" />
+			<File>MTV DANCE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Entertainment" />
+			<Item Name="MTV Entertainment (S)" />
+			<File>MTV Entertainment.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV HD" />
+			<File>MTV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV HITS" />
+			<Item Name="MTV HITS." />
+			<File>MTV HITS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Music" />
+			<File>MTV Music.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV" />
+			<Item Name="MTV Germany" />
+			<Item Name="MTV Music 24" />
+			<File>MTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Live HD" />
+			<File>MTV Live HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTVN HD" />
+			<File>MTVN HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="mtv rocks" />
+			<Item Name="MTV ROCKS." />
+			<File>MTV Rocks.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="münchen.tv" />
+			<File>muenchen.tv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Muenchen2" />
+			<File>Muenchen2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MV1" />
+			<File>MV1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="myZen.tv" />
+			<File>myZen.tv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="n-tv" />
+			<File>n-tv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="n-tv HD" />
+			<File>n-tv HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="n24 hd" />
+			<File>n24 hd.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="N24" />
+			<File>N24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NASN" />
+			<Item Name="NASN (S)" />
+			<File>NASN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nashe Kino (rus)" />
+			<File>Nashe Kino (rus).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NatGeo Wild" />
+			<File>NatGeo Wild.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="National Geographic"/>
+			<Item Name="NatGeo"/>
+			<File>National Geographic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nautical Channel" />
+			<File>Nautical Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NATGEO HD" />
+			<Item Name="NatGeo HD (KD)" />
+			<Item Name="National Geographic HD" />
+			<File>NATGEO HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NatGeo People" />
+			<File>NatGeo People.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NatGeo Wild HD" />
+			<Item Name="Nat Geo Wild HD" />
+			<File>NatGeo Wild HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR" />
+			<Item Name="NDR FERNSEHEN" />
+			<Item Name="NDR FS NDS _" />
+			<Item Name="NDR FS NDS" />
+			<File>NDR.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR-Fernsehen" />
+			<File>NDR-Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR FS HH" />
+			<Item Name="NDR FS HH+" />
+			<File>NDR FS HH.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR FS MV" />
+			<Item Name="NDR FS MV+" />
+			<File>NDR FS MV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR FS SH" />
+			<Item Name="NDR FS SH+" />
+			<File>NDR FS SH.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR HD" />
+			<Item Name="NDR FERNSEHEN HD" />
+			<Item Name="NDR FS HH HD" />
+			<Item Name="NDR FS HH+ HD" />
+			<Item Name="NDR FS MV HD" />
+			<Item Name="NDR FS MV+ HD" />
+			<Item Name="NDR FS NDS HD" />
+			<Item Name="NDR FS SH HD" />
+			<Item Name="NDR FS SH+ HD" />
+			<Item Name="NDR-Fernsehen HD" />
+			<Item Name="NDR Fernsehen Hamburg HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>NDR HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NICK Austria" />
+			<File>NICK Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NICK Germany" />
+			<File>NICK Germany.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NICK Jr." />
+			<Item Name="NICK Junior" />
+			<File>Nick Jr.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nick Jr. HD" />
+			<File>Nick Jr HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nick Premium" />
+			<Item Name="Nick Premium (S)" />
+			<File>Nick Premium.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="nicktoons" />
+			<Item Name="nicktoons (S)" />
+			<File>nicktoons.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="nick_cc hd" />
+			<Item Name="NICK/CC HD" />
+			<File>nick_cc hd.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NICK_COMEDY CENTRAL" />
+			<Item Name="NICK_COMEDY" />
+			<Item Name="NICK/COMEDY" />
+			<Item Name="NICK/COMEDY CENTRAL">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>NICK_COMEDY CENTRAL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nick/Comedy HD">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Nick_Comedy HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nickelodeon" />
+			<Item Name="NICKELODEON AT" />
+			<File>Nickelodeon.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nickelodeon HD" />
+			<Item Name="NICKELODEON HD AT" />
+			<File>Nickelodeon HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRJ Hits" />
+			<File>NRJ Hits.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRW.TV" />
+			<File>NRW.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NTV Avrupa" />
+			<Item Name="NTV Avrupa (türk)" />
+			<File>NTV Avrupa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nrwision" />
+			<File>Nrwision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="OK GERA">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>OK GERA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="okb" />
+			<File>okb.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ONTV Regional" />
+			<File>ONTV Regional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF1" />
+			<File>ORF1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF1 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="ORF eins HD">
+				<Provider>UPC Tirol</Provider>
+			</Item>
+			<File>ORF1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 B" />
+			<File>ORF2 B.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2" />
+			<File>ORF2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 HD" />
+			<Item Name="ORF 2 Tirol HD" />
+			<Item Name="ORF 2 Vorarlberg HD" />
+			<Item Name="ORF 2 Salzburg HD" />
+			<Item Name="ORF 2 Burgenland HD" />
+			<Item Name="ORF 2 Kärten HD" />
+			<Item Name="ORF 2 Niederösterreich HD" />
+			<Item Name="ORF 2 Oberösterreich HD" />
+			<Item Name="ORF 2 Steiermark HD" />
+			<Item Name="ORF2N HD" />
+			<Item Name="ORF2St HD" />
+			<Item Name="ORF2K HD" />
+			<Item Name="ORF2B HD" />
+			<Item Name="ORF2O HD" />
+			<Item Name="ORF2S HD" />
+			<Item Name="ORF2T HD" />
+			<Item Name="ORF2V HD" />
+			<Item Name="ORF2W HD" />
+			<File>ORF2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 K" />
+			<File>ORF2 K.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 N" />
+			<File>ORF2 N.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 O" />
+			<File>ORF2 O.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 S" />
+			<File>ORF2 S.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 St" />
+			<File>ORF2 St.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 T" />
+			<File>ORF2 T.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 V" />
+			<File>ORF2 V.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 W" />
+			<File>ORF2 W.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2E" />
+			<File>ORF2E.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF III" />
+			<Item Name="orf3" />
+			<File>ORF III.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF III HD" />
+			<File>ORF III HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF SPORT PLUS" />
+			<Item Name="ORF SPORT+" />
+			<Item Name="orfsportplus" />
+			<File>ORF Sport Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF SPORT+ HD" />
+			<File>ORF Sport Plus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Parlamentsfernsehen" />
+			<File>Parlamentsfernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Passion" />
+			<Item Name="RTL Passion" />
+			<File>Passion.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="pearl.tv">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>pearl.tv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="pearl.tv HD" />
+			<Item Name="pearl.tv HD Shop">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Pearl TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Penthouse"/>
+			<File>Penthouse TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Penthouse HD" />
+			<File>Penthouse HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Phoenix HD" />
+			<File>Phoenix HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Phoenix" />
+			<File>Phoenix.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Planet HD" />
+			<File>Planet HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Planet" />
+			<File>Planet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Playboy TV" />
+			<File>Playboy TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Playhouse Disney" />
+			<Item Name="Disney Playhouse" />
+			<Item Name="Disney Playhouse (S)" />
+			<File>Playhouse Disney.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Poker Channel Europe" />
+			<File>Poker Channel Europe.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Power Türk Avrupa" />
+			<File>Power Tuerk Avrupa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Press TV" />
+			<File>Press TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Promi Big Brother live" />
+			<File>Promi Big Brother.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ProSieben" />
+			<Item Name="Pro7">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>ProSieben.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ProSieben Austria" />
+			<File>ProSieben Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ProSieben Schweiz" />
+			<File>ProSieben Schweiz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ProSieben HD" />
+			<Item Name="Pro7 HD">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>ProSieben HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pro7 FUN" />
+			<Item Name="ProSieben FUN" />
+			<File>ProSieben FUN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pro7 FUN HD" />
+			<Item Name="ProSieben FUN HD" />
+			<File>ProSieben FUN HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ProSieben Maxx" />
+			<Item Name="Pro7 MAXX Austria" />
+			<Item Name="Pro7 MAXX">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>ProSieben Maxx.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ProSieben Maxx HD" />
+			<Item Name="Pro7 Maxx HD" />
+			<File>ProSieben Maxx HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="puls 4" />
+			<Item Name="puls 4 Austria" />
+			<File>puls 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Puls4 HD" />
+			<File>Puls4 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="QVC" />
+			<Item Name="QVC Deutschland" />
+			<File>QVC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="QVC Beauty&amp;Style" />
+			<Item Name="QVC Beauty">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>QVC Beauty_Style.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="qvc hd" />
+			<File>QVC HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="QVC Plus" />
+			<File>QVC Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="QVC PLUS HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>QVC Plus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Bremen TV" />
+			<Item Name="Radio Bremen TV_" />
+			<File>Radio Bremen TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rai 1 (itl)" />
+			<File>Rai 1 (itl).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rai 2 (itl)" />
+			<File>Rai 2 (itl).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rai 3 (itl)" />
+			<File>Rai 3 (itl).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="rbb Berlin" />
+			<File>rbb Berlin.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="rbb Brandenburg" />
+			<File>rbb Brandenburg.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="rbb" />
+			<Item Name="RBB-Fernsehen" />
+			<File>RBB-Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="rbb Brandenburg HD" />
+			<Item Name="rbb Berlin HD" />
+			<Item Name="rbb Fernsehen Berlin HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>RBB HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Regio TV" />
+			<File>Regio TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="rfo Regional Oberbayern" />
+			<File>rfo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="rhein-main tv" />
+			<Item Name="rhein main tv" />
+			<File>rhein-main tv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RiC">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>RiC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RNF" />
+			<File>RNF.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="rok-tv" />
+			<Item Name="ROK TV" />
+			<File>rok-tv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rock TV" />
+			<Item Name="RCK TV">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Rock TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Romance TV HD" />
+			<File>Romance TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Romance TV" />
+			<File>Romance TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTF 1" />
+			<File>RTF 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL" />
+			<Item Name="RTL Television" />
+			<Item Name="RTL Regional NRW" />
+			<Item Name="RTL FS" />
+			<Item Name="RTL München" />
+			<File>RTL Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL Austria" />
+			<File>RTL Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL Crime"/>
+			<File>RTL Crime.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL Crime HD"/>
+			<File>RTL Crime HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL HB NDS" />
+			<File>RTL HB NDS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL HD" />
+			<Item Name="RTL HD Austria" />
+			<File>RTL HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL HH SH" />
+			<File>RTL HH SH.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL Living" />
+			<File>RTL Living.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL Schweiz" />
+			<Item Name="RTL CH" />
+			<File>RTL Schweiz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL Shop" />
+			<File>RTL Shop.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL Living HD" />
+			<File>RTL Living HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL Passion HD" />
+			<Item Name="Passion HD">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>RTL Passion HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL2 Austria" />
+			<File>RTL2 Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL2 HD" />
+			<Item Name="RTL II HD Austria" />
+			<Item Name="RTL II HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>RTL2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL2 Schweiz" />
+			<File>RTL2 Schweiz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL2" />
+			<Item Name="RTL II" />
+			<Item Name="RTLII-gold" />
+			<File>RTL2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL NITRO" />
+			<Item Name="RTL NITRO A" />
+			<Item Name="RTLNITRO" />
+			<File>RTLNITRO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL NITRO HD" />
+			<File>RTL Nitro HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTR Planeta (rus)" />
+			<File>RTR Planeta (rus).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Russia Today" />
+			<Item Name="RT HD" />
+			<File>Russia Today.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Samanyolu TV" />
+			<File>Samanyolu TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sat.1" />
+			<Item Name="SAT. 1" />
+			<Item Name="SAT.1 HH/SH" />
+			<Item Name="SAT.1 NS/Bremen" />
+			<Item Name="SAT.1 RhlPf/Hessen" />
+			<Item Name="SAT.1 Bayern" />
+			<Item Name="SAT.1 NRW" />
+			<File>Sat.1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SAT.1 A" />
+			<File>SAT.1 A.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SAT.1 CH" />
+			<File>SAT.1 CH.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sat.1 HD" />
+			<Item Name="SAT.1 HD2" />
+			<File>SAT.1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SAT.1 emotions" />
+			<File>SAT.1 emotions.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sat.1 Comedy" />
+			<File>Sat.1 Comedy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SAT.1 Gold" />
+			<Item Name="SAT.1 Gold Österreich" />
+			<File>SAT.1 Gold.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SciFi" />
+			<Item Name="Sci Fi" />
+			<Item Name="SciFi (KD)" />
+			<File>SciFi.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sense TV HD" />
+			<File>Sense TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Servus TV HD" />
+			<Item Name="ServusTV HD Deutschland" />
+			<Item Name="ServusTV HD Oesterreich" />
+			<Item Name="ServusTV HD">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Servus TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ServusTV" />
+			<Item Name="Servus TV" />
+			<Item Name="Servus TV SD" />
+			<Item Name="ServusTV Deutschland" />
+			<Item Name="ServusTV Oesterreich" />
+			<File>ServusTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SF1" />
+			<File>SF1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SF 1 HD" />
+			<File>SF 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SFinfo" />
+			<File>SFinfo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SFzwei" />
+			<Item Name="SF2">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>SFzwei.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SF zwei HD" />
+			<File>SF zwei HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Show Turk" />
+			<File>Show Turk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Silverline" />
+			<Item Name="Silverline Movie Channel" />
+			<File>Silverline.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sixx">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Sixx Austria">
+				<Provider>UPC Tirol</Provider>
+			</Item>
+			<File>sixx.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SIXX HD" />
+			<File>SIXX HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Atlantic" />
+			<File>Sky Atlantic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Atlantic HD" />
+			<File>Sky Atlantic HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga 1" />
+			<File>Sky Bundesliga 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga 2" />
+			<File>Sky Bundesliga 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga 3" />
+			<File>Sky Bundesliga 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga 4" />
+			<File>Sky Bundesliga 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga 5" />
+			<File>Sky Bundesliga 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga 6" />
+			<File>Sky Bundesliga 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga 7" />
+			<File>Sky Bundesliga 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga 8" />
+			<File>Sky Bundesliga 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga 9" />
+			<File>Sky Bundesliga 9.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga" />
+			<File>Sky Bundesliga.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga HD 1" />
+			<File>Sky Bundesliga HD 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga HD 2" />
+			<File>Sky Bundesliga HD 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Bundesliga HD 3" />
+			<Item Name="Sky Bundesliga HD 4" />
+			<Item Name="Sky Bundesliga HD 5" />
+			<Item Name="Sky Bundesliga HD 6" />
+			<Item Name="Sky Bundesliga HD 7" />
+			<Item Name="Sky Bundesliga HD 8" />
+			<Item Name="Sky Bundesliga HD 9" />
+			<Item Name="Sky Bundesliga HD 10" />
+			<File>Sky Bundesliga HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky HD FanZone" />
+			<File>Sky HD FanZone.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Hits HD" />
+			<File>Sky Hits HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Hits" />
+			<File>Sky Hits.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Krimi" />
+			<File>Sky Krimi.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky News" />
+			<Item Name="Sky News Intl" />
+			<File>Sky News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport News HD" />
+			<File>Sky Sport News HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport News s" />
+			<Item Name="Sky Sport News">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Sky Sport News s.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky 3d" />
+			<File>sky 3d.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky action HD" />
+			<File>Sky Action HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky action" />
+			<File>sky action.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky cinema +1" />
+			<Item Name="Sky Cinema+1" />
+			<File>sky cinema plus1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema+1 HD" />
+			<File>Sky Cinema Plus 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky cinema +24" />
+			<Item Name="Sky Cinema+24" />
+			<File>sky cinema plus24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema+24 HD" />
+			<File>Sky Cinema Plus 24 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky cinema HD" />
+			<File>Sky Cinema HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky cinema hits HD" />
+			<File>sky cinema hits HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky cinema hits" />
+			<File>sky cinema hits.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky cinema" />
+			<File>sky cinema.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky comedy" />
+			<File>sky comedy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky emotion" />
+			<File>sky emotion.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky fußball bundesliga" />
+			<File>sky fussball bundesliga.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky nostalgie" />
+			<File>sky nostalgie.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select 1" />
+			<File>sky select 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select 2" />
+			<File>sky select 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select 3" />
+			<File>sky select 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select 4" />
+			<File>sky select 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select 5" />
+			<File>sky select 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select 6" />
+			<File>sky select 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select 7" />
+			<File>sky select 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select 8" />
+			<File>sky select 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select 9" />
+			<File>sky select 9.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select hd" />
+			<File>sky select hd.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky select" />
+			<File>sky select.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky sport 1" />
+			<File>sky sport 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky sport 2" />
+			<File>sky sport 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky sport 3" />
+			<Item Name="sky sport 4" />
+			<Item Name="sky sport 5" />
+			<Item Name="sky sport 6" />
+			<Item Name="sky sport 7" />
+			<Item Name="sky sport 8" />
+			<Item Name="sky sport 9" />
+			<Item Name="sky sport 10" />
+			<Item Name="sky sport 11" />
+			<Item Name="sky sport 12" />
+			<File>sky sport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky sport HD 1" />
+			<File>sky sport HD 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky sport HD 2" />
+			<File>sky sport HD 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky sport HD 3" />
+			<Item Name="sky sport HD 4" />
+			<Item Name="sky sport HD 5" />
+			<Item Name="sky sport HD 6" />
+			<Item Name="sky sport HD 7" />
+			<Item Name="sky sport HD 8" />
+			<Item Name="sky sport HD 9" />
+			<Item Name="sky sport HD 10" />
+			<Item Name="sky sport HD 11" />
+			<Item Name="sky sport HD 12" />
+			<File>sky sport HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky sport austria" />
+			<File>sky sport austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky sport hd extra" />
+			<File>sky sport hd extra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sky sport info" />
+			<File>sky sport info.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky XMas" />
+			<File>Sky XMas.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky XMas HD" />
+			<File>Sky XMas HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sonnenklar TV" />
+			<Item Name="Sonnenklar.TV" />
+			<File>Sonnenklar TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sonnenklar.tv hd" />
+			<File>sonnenklar.tv hd.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sony Entertainment TV" />
+			<File>Sony Entertainment TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sony Entertainment TV HD" />
+			<File>Sony Entertainment TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Souvenirs from Earth" />
+			<File>Souvenirs from Earth.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spiegel Geschichte" />
+			<File>Spiegel Geschichte.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spiegel Geschichte HD" />
+			<File>Spiegel Geschichte HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spiegel TV Digital" />
+			<File>Spiegel TV Digital.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spiegel TV Wissen" />
+			<File>Spiegel TV Wissen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spiegel TV Wissen HD" />
+			<Item Name="Spiegel TV HD" />
+			<File>Spiegel TV Wissen HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SpiritOn.TV" />
+			<File>SpiritOn.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport1" />
+			<File>Sport1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SPORT1 HD" />
+			<File>SPORT1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sport1+" />
+			<File>sport1plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport1+ HD" />
+			<File>Sport1plus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport 1 US"/>
+			<File>Sport 1 US.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport1 US HD" />
+			<File>Sport1 US HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport1 US HD1" />
+			<File>Sport1 US HD1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sportdigital.tv" />
+			<Item Name="sportdigital" />
+			<File>SportDigital.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="sportdigital HD" />
+			<File>SportDigital HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SR Fernsehen" />
+			<File>SR Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SRF 1" />
+			<File>SRF 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SRF 1 HD" />
+			<File>SRF 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SRF zwei HD" />
+			<File>SRF zwei HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SSF" />
+			<File>SSF.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Star TV" />
+			<File>Star TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Super RTL A" />
+			<File>Super RTL A.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Super RTL CH" />
+			<File>Super RTL CH.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Super RTL" />
+			<File>Super RTL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Super RTL HD" />
+			<Item Name="superrtlhd" />
+			<File>Super RTL HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR Fernsehen BW" />
+			<File>SWR Fernsehen BW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR Fernsehen RP" />
+			<File>SWR Fernsehen RP.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR Fernsehen" />
+			<Item Name="SWR-Fernsehen" />
+			<File>SWR Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR HD" />
+			<Item Name="SWR BW HD" />
+			<Item Name="SWR RP HD" />
+			<Item Name="SWR-Fernsehen HD" />
+			<Item Name="SWR Fernsehen RP HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>SWR HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="syfy" />
+			<File>syfy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Syfy HD" />
+			<File>Syfy HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="tagesschau24" />
+			<File>tagesschau24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="tagesschau24 HD" />
+			<File>Tagesschau24 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="tcm" />
+			<Item Name="tcm (a_S)" />
+			<File>tcm.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TecTime TV-Zeit für Technik" />
+			<Item Name="TecTime TV" />
+			<File>TecTime TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TELE 5" />
+			<File>TELE 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="tele 5 hd" />
+			<File>tele 5 hd.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleM1" />
+			<File>TeleM1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleTell" />
+			<File>TeleTell.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleZüri" />
+			<File>TeleZueri.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TGRT EU" />
+			<File>TGRT EU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Biography Channel" />
+			<File>The Biography Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Poker Channel" />
+			<Item Name="The Poker Channel (engl)" />
+			<File>The Poker Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TIER.TV" />
+			<File>TIER.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tirol TV" />
+			<File>Tirol TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tirol TV HD" />
+			<File>Tirol TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="tividi" />
+			<File>tividi.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TLC" />
+			<File>TLC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TLC HD" />
+			<File>TLC HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT" />
+			<File>TNT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT Glitz" />
+			<File>TNT Glitz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT Glitz HD" />
+			<File>TNT Glitz HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT Film HD" />
+			<File>TNT Film HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT Film" />
+			<Item Name="TNT Film (TCM)" />
+			<Item Name="TNT Film (engl)">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>TNT Film.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT Serie HD" />
+			<File>TNT Serie HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT Serie" />
+			<Item Name="TNT Serie (KD)" />
+			<File>TNT Serie.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Toon Disney +1" />
+			<Item Name="Disney Toon +1" />
+			<File>Toon Disney plus1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Toon Disney" />
+			<Item Name="Disney Toon" />
+			<Item Name="Disney Toon (S)" />
+			<File>Toon Disney.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Travel Channel Deutschland"/>
+			<File>Travel Channel Deutschland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TRT Türk" />
+			<Item Name="TRT Int." />
+			<File>TRT Tuerk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="tru_ young tv" />
+			<File>tru_ young tv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Oberfranken" />
+			<Item Name="OberfrankenTV" />
+			<File>TV Oberfranken.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Polonia" />
+			<File>TV Polonia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV5 MONDE" />
+			<Item Name="TV5MONDE EUROPE" />
+			<Item Name="TV5MONDE" />
+			<Item Name="TV 5 Monde (frz)">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>TV5MONDE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVEi (span)" />
+			<File>TVEi (span).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="tv.B" />
+			<File>tv.B.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tv.gusto Premium" />
+			<File>Tv.gusto Premium.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tv.gusto" />
+			<File>Tv.gusto.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="tv.rostock" />
+			<File>tv.rostock.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Türkshow" />
+			<File>Tuerkshow.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="turkmax (türk)" />
+			<File>turkmax (tuerk).png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TW1" />
+			<File>TW1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="U1 TV" />
+			<File>U1 TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ulm-Allgäu" />
+			<File>Ulm-Allgaeu.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="UProm.TV" />
+			<File>UProm.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Universal Channel" />
+			<File>Universal channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Universal Channel HD" />
+			<Item Name="Universal HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Universal channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="UniversalHD" />
+			<File>Universal HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Unitymedia Infokanal" />
+			<File>Unitymedia Infokanal.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Unitymedia Videothek" />
+			<Item Name="Unitymedia Schnupperkanal" />
+			<Item Name="Schnupperkanal" />
+			<File>Unitymedia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VH1 Classic" />
+			<File>VH1 Classic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VH1" />
+			<File>VH1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VIVA AUT" />
+			<File>VIVA AUT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VIVA Schweiz" />
+			<File>VIVA Schweiz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VIVA" />
+			<Item Name="VIVA Germany" />
+			<File>VIVA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VIVA HD" />
+			<File>VIVA HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VOX Austria" />
+			<File>VOX Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VOX CH" />
+			<File>VOX CH.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VOX HD" />
+			<Item Name="VOX HD Austria" />
+			<File>VOX HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VOX" />
+			<File>VOX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Aachen" />
+			<Item Name="WDR Aachen _" />
+			<File>WDR Aachen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Bielefeld" />
+			<File>WDR Bielefeld.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Bonn" />
+			<File>WDR Bonn.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Dortmund" />
+			<File>WDR Dortmund.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Duisburg" />
+			<File>WDR Duisburg.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Düsseldorf" />
+			<File>WDR Duesseldorf.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Essen" />
+			<Item Name="WDR Essen _" />
+			<File>WDR Essen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Fernsehen" />
+			<File>WDR Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR-Fernsehen" />
+			<File>WDR-Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR HD" />
+			<Item Name="WDR HD Aachen" />
+			<Item Name="WDR HD Bielefeld" />
+			<Item Name="WDR HD Bonn" />
+			<Item Name="WDR HD Dortmund" />
+			<Item Name="WDR HD Duisburg" />
+			<Item Name="WDR HD Düsseldorf" />
+			<Item Name="WDR HD Essen" />
+			<Item Name="WDR HD Köln" />
+			<Item Name="WDR HD Münster" />
+			<Item Name="WDR HD Siegen" />
+			<Item Name="WDR HD Wuppertal" />
+			<Item Name="WDR Köln HD">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>WDR HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Köln" />
+			<File>WDR Koeln.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Münster" />
+			<File>WDR Muenster.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Siegen" />
+			<File>WDR Siegen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Wuppertal" />
+			<File>WDR Wuppertal.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Welt der Wunder" />
+			<Item Name="Welt der Wunder TV">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Welt der Wunder.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Wrestling" />
+			<File>Wrestling.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="XXHome" />
+			<File>XXHome.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="XITE" />
+			<File>XITE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yavido" />
+			<Item Name="Yavido Clips" />
+			<File>Yavido.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="yourfamily"/>
+			<File>yourfamily.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ZDF" />
+			<File>ZDF.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ZDF HD" />
+			<File>ZDF HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Zdfinfo" />
+			<Item Name="ZDFinfokanal" />
+			<File>zdf info.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ZDFinfo HD" />
+			<File>zdf info HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="zdf.kultur" />
+			<File>zdf.kultur.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="zdf.kultur HD" />
+			<File>zdf.kultur HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ZDF_neo" />
+			<File>zdf_neo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="zdf_neo HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="ZDF neo HD">
+				<Provider>UPC Tirol</Provider>
+			</Item>
+			<File>zdf_neo HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="zdfneo_KiKa" />
+			<File>zdfneo_KiKa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ZDFtheaterkanal" />
+			<File>ZDFtheaterkanal.png</File>
+		</Channel>
+	</TV>
+
+
+	<!-- ******************************************************************** -->
+	<Radio>
+		<Channel>
+			<Item Name="1LIVE diggi" />
+			<File>1LIVE diggi.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="1LIVE" />
+			<File>1LIVE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Antenne Bayern" />
+			<File>Antenne Bayern.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Antenne Brandenburg" />
+			<File>Antenne Brandenburg.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Antenne" />
+			<File>Antenne.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="B5 aktuell" />
+			<File>B5 aktuell.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="B5 plus" />
+			<File>B5 plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bayern 1" />
+			<File>Bayern 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bayern 2" />
+			<File>Bayern 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bayern 3" />
+			<File>Bayern 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bayern 4 Klassik" />
+			<File>Bayern 4 Klassik.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bayern Plus" />
+			<File>Bayern Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC World Service">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="BBC English (Europe)">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>BBC World Service.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BR Klassik">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="BR-Klassik">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>BR Klassik.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PULS">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>BR puls.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BR Verkehr" />
+			<File>BR Verkehr.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bremen Eins" />
+			<File>Bremen Eins.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bremen Vier" />
+			<File>Bremen Vier.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dasding" />
+			<File>Dasding.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DELUXE LOUNGE" />
+			<File>DELUXE LOUNGE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DELUXE RADIO" />
+			<File>DELUXE RADIO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DKultur" />
+			<File>DKultur.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DLF" />
+			<File>DLF.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dok&amp;Deb" />
+			<File>Dok&amp;Deb.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DRadio Wissen" />
+			<File>DRadio Wissen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DW 1" />
+			<File>DW 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DW 4" />
+			<File>DW 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ERF Radio" />
+			<Item Name="ERF" />
+			<File>ERF Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ffn digital" />
+			<File>ffn digital.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FM4" />
+			<File>FM4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fritz" />
+			<File>Fritz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="harmony.fm" />
+			<File>harmony.fm.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hit Radio FFH" />
+			<File>Hit Radio FFH.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="hr iNFO +" />
+			<File>hr iNFO plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="hr iNFO" />
+			<Item Name="hr-info" />
+			<File>hr iNFO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="hr1" />
+			<File>hr1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="hr2" />
+			<File>hr2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="hr3" />
+			<File>hr3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="hr4" />
+			<File>hr4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Inforadio" />
+			<File>Inforadio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Inselradio" />
+			<File>Inselradio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="JAM FM">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Jam FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jump" />
+			<File>Jump.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kiraka" />
+			<File>Kiraka.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Klassik Radio" />
+			<File>Klassik Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kulturradio" />
+			<File>Kulturradio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="mdr figaro" />
+			<File>mdr figaro.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="mdr info" />
+			<File>mdr info.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MDR Jump" />
+			<File>MDR Jump.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="mdr klassik" />
+			<File>mdr klassik.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="mdr sputnik" />
+			<File>mdr sputnik.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="mdr" />
+			<File>mdr.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MDR1 SA-ANHALT" />
+			<Item Name="MDR S-ANHALT" />
+			<File>MDR1 SA-ANHALT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MDR1 Sachsen" />
+			<File>MDR1 Sachsen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MDR THÜRINGEN">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="MDR1 THÜRINGEN">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>MDR Thueringen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="METROPOL FM">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Metropol FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="60er &amp; 70er Hits">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="80er &amp; 90er Hits">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Alternative">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Big Band/Swing">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Blues">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Brasil">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Chillout">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Classic Rock">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Country">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Dance">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Deutsche Hits">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Deutsche Schlager">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Deutscher Rock">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Euro Hits">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Heavy Metal">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Instrumentals">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Klassik Hits">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Klassik Radio Movie">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Klassischer Jazz">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Love Songs">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="New Age">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Perfect Dinner Party">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Pop">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="R&amp;B Hip Hop">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Rap">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Reggae">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Rock Anthems">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Rock&apos;n&apos;Roll Oldies">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Spanischer Rock">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="Symphonie">
+				<Provider>KDG</Provider>
+			</Item>
+			<Item Name="UK Hits">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Music Choice.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="N-Joy" />
+			<File>N-Joy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR 1 Nieders." />
+			<File>NDR 1 Nieders..png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR 1 Radio MV" />
+			<File>NDR 1 Radio MV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR 2" />
+			<File>NDR 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR 90,3" />
+			<File>NDR 90,3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR Info Spez." />
+			<File>NDR Info Spez..png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR Info" />
+			<File>NDR Info.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR kultur" />
+			<File>NDR kultur.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR1WelleNord" />
+			<Item Name="NDR 1 Welle Nord">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>NDR1WelleNord.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nordwestradio" />
+			<File>Nordwestradio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="oe1" />
+			<Item Name="oe1 DD" />
+			<Item Name="OE 1">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>oe1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ö1 International" />
+			<File>OE1 International.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oe2 B" />
+			<File>Oe2 B.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oe2 K" />
+			<File>Oe2 K.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oe2 N" />
+			<File>Oe2 N.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oe2 O" />
+			<File>Oe2 O.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oe2 S" />
+			<File>Oe2 S.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oe2 St" />
+			<File>Oe2 St.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oe2 T" />
+			<File>Oe2 T.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oe2 V" />
+			<Item Name="OE 2V">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Oe2 V.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oe2 W" />
+			<File>Oe2 W.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="oe3" />
+			<Item Name="OE 3">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>oe3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="on3-radio" />
+			<File>on3-radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Planet radio" />
+			<File>Planet radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Paloma">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Radio Paloma.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Regenbogen" />
+			<File>Radio Regenbogen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Salü" />
+			<File>Radio Salue.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Horeb">
+				<Provider>KDG</Provider>
+			</Item>
+			<File>Radio Horeb.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="radio top40" />
+			<File>radio top40.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RadioBerlin 88,8" />
+			<Item Name="radioBERLIN 88.8">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>RadioBerlin 88,8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RadioEins" />
+			<File>RadioEins.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rock Antenne" />
+			<File>Rock Antenne.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL Radio" />
+			<File>RTL Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SR1 Europawelle" />
+			<Item Name="SR 1 Europawelle" />
+			<Item Name="SR1">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>SR1 Europawelle.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SR2 KulturRadio" />
+			<Item Name="SR 2 KulturRadio" />
+			<Item Name="SR2">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>SR2 KulturRadio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SR3 Saarlandwelle" />
+			<Item Name="SR 3 Saarlandwelle" />
+			<Item Name="SR3">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>SR3 Saarlandwelle.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SRF 1" />
+			<Item Name="SRG-DRS 1">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>SRF 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SRF 2 Kultur" />
+			<Item Name="SRG-DRS 2">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>SRF 2 Kultur.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SRF 3" />
+			<Item Name="SRG-DRS 3">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>SRF 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SRF 4 News" />
+			<File>SRF 4 News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SRF Musikwelle" />
+			<File>SRF Musikwelle.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SRF Virus" />
+			<File>SRF Virus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SRG-Couleur3" />
+			<File>SRG-Couleur3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sunshine live" />
+			<Item Name="Radio Sunshine Live">
+				<Provider>KabelBW</Provider>
+			</Item>
+			<File>Sunshine live.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR 1 BW" />
+			<Item Name="SWR1 BW" />
+			<File>SWR 1 BW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR 1 RP" />
+			<Item Name="SWR1 RP" />
+			<File>SWR 1 RP.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR 1" />
+			<Item Name="SWR1" />
+			<File>SWR 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR 2" />
+			<Item Name="SWR2" />
+			<File>SWR 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR 3" />
+			<Item Name="SWR3" />
+			<File>SWR 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR 4 BW" />
+			<Item Name="SWR4 BW" />
+			<File>SWR 4 BW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR 4 RP" />
+			<Item Name="SWR4 RP" />
+			<File>SWR 4 RP.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR 4" />
+			<File>SWR 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWR cont.ra" />
+			<File>SWR cont.ra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWRinfo" />
+			<File>SWRinfo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR 2" />
+			<File>WDR 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR 3" />
+			<File>WDR 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR 4" />
+			<File>WDR 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR 5" />
+			<File>WDR 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Event" />
+			<File>WDR Event.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDR Funkhaus Europa" />
+			<File>WDR Funkhaus Europa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="You FM" />
+			<File>You FM.png</File>
+		</Channel>
+	</Radio>
+	<!-- ******************************************************************** -->
+</Mappings>
