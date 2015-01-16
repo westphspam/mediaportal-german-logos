@@ -1390,27 +1390,6 @@
 			<File>ORF2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ORF2 HD" />
-			<Item Name="ORF 2 Tirol HD" />
-			<Item Name="ORF 2 Vorarlberg HD" />
-			<Item Name="ORF 2 Salzburg HD" />
-			<Item Name="ORF 2 Burgenland HD" />
-			<Item Name="ORF 2 Kärten HD" />
-			<Item Name="ORF 2 Niederösterreich HD" />
-			<Item Name="ORF 2 Oberösterreich HD" />
-			<Item Name="ORF 2 Steiermark HD" />
-			<Item Name="ORF2N HD" />
-			<Item Name="ORF2St HD" />
-			<Item Name="ORF2K HD" />
-			<Item Name="ORF2B HD" />
-			<Item Name="ORF2O HD" />
-			<Item Name="ORF2S HD" />
-			<Item Name="ORF2T HD" />
-			<Item Name="ORF2V HD" />
-			<Item Name="ORF2W HD" />
-			<File>ORF2 HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="ORF2 K" />
 			<File>ORF2 K.png</File>
 		</Channel>
@@ -1445,6 +1424,55 @@
 		<Channel>
 			<Item Name="ORF2E" />
 			<File>ORF2E.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2 HD" />
+			<File>ORF2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2B HD" />
+			<Item Name="ORF 2 Burgenland HD" />
+			<File>ORF2B HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2K HD" />
+			<Item Name="ORF 2 Kärten HD" />
+			<File>ORF2K HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2N HD" />
+			<Item Name="ORF 2 Niederösterreich HD" />
+			<File>ORF2N HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2O HD" />
+			<Item Name="ORF 2 Oberösterreich HD" />
+			<File>ORF2O HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2S HD" />
+			<Item Name="ORF 2 Salzburg HD" />
+			<File>ORF2S HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2St HD" />
+			<Item Name="ORF 2 Steiermark HD" />
+			<File>ORF2St HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF 2 Tirol HD" />
+			<Item Name="ORF2T HD" />
+			<File>ORF2T HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2V HD" />
+			<Item Name="ORF 2 Vorarlberg HD" />
+			<File>ORF2V HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF2W HD" />
+			<Item Name="ORF2Wien HD" />
+			<File>ORF2W HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF III" />
@@ -2860,11 +2888,8 @@
 		</Channel>
 		<Channel>
 			<Item Name="DW 1" />
-			<File>DW 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="DW 4" />
-			<File>DW 4.png</File>
+			<File>DW.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ERF Radio" />
@@ -2931,10 +2956,6 @@
 			<File>Jam FM.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Jump" />
-			<File>Jump.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Kiraka" />
 			<File>Kiraka.png</File>
 		</Channel>
@@ -2956,6 +2977,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="MDR Jump" />
+			<Item Name="Jump" />
 			<File>MDR Jump.png</File>
 		</Channel>
 		<Channel>
@@ -3139,7 +3161,7 @@
 			<Item Name="OE 1">
 				<Provider>KabelBW</Provider>
 			</Item>
-			<File>oe1.png</File>
+			<File>Oe1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Ö1 International" />
@@ -3189,7 +3211,7 @@
 			<Item Name="OE 3">
 				<Provider>KabelBW</Provider>
 			</Item>
-			<File>oe3.png</File>
+			<File>Oe3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="on3-radio" />
