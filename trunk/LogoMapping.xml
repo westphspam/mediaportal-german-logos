@@ -13,7 +13,6 @@
 		<Channel>
 			<Item Name="13th Street" />
 			<Item Name="13 th Street" />
-			<Item Name="13 th Street (KD)" />
 			<File>13th Street.png</File>
 		</Channel>
 		<Channel>
@@ -79,7 +78,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Animax" />
-			<Item Name="Animax (a_S)" />
 			<File>Animax.png</File>
 		</Channel>
 		<Channel>
@@ -173,7 +171,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="AXN" />
-			<Item Name="AXN (a_S)" />
 			<Item Name="AXN Action" />
 			<File>AXN.png</File>
 		</Channel>
@@ -306,7 +303,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Boomerang" />
-			<Item Name="Boomerang (a_S)" />
 			<Item Name="Boomerang (engl)">
 				<Provider>KDG</Provider>
 			</Item>
@@ -356,8 +352,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Cartoon Network" />
-			<Item Name="Cartoon Network (S)" />
-			<Item Name="Cartoon Network (a_S)" />
 			<File>Cartoon Network.png</File>
 		</Channel>
 		<Channel>
@@ -568,7 +562,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="e.clips" />
-			<Item Name="e.clips (S)" />
 			<File>e.clips.png</File>
 		</Channel>
 		<Channel>
@@ -589,7 +582,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="ESPN America" />
-			<Item Name="ESPN America (S)" />
 			<File>ESPN America.png</File>
 		</Channel>
 		<Channel>
@@ -648,7 +640,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Eurosport 2" />
-			<Item Name="Eurosport 2 (a_S)" />
 			<Item Name="Eurosport 2 Deutschland" />
 			<File>Eurosport 2.png</File>
 		</Channel>
@@ -1004,7 +995,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Kinowelt TV" />
-			<Item Name="Kinowelt TV (S)" />
 			<File>Kinowelt TV.png</File>
 		</Channel>
 		<Channel>
@@ -1134,7 +1124,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="MTV Entertainment" />
-			<Item Name="MTV Entertainment (S)" />
 			<File>MTV Entertainment.png</File>
 		</Channel>
 		<Channel>
@@ -1203,7 +1192,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="NASN" />
-			<Item Name="NASN (S)" />
 			<File>NASN.png</File>
 		</Channel>
 		<Channel>
@@ -1225,7 +1213,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="NATGEO HD" />
-			<Item Name="NatGeo HD (KD)" />
 			<Item Name="National Geographic HD" />
 			<File>NATGEO HD.png</File>
 		</Channel>
@@ -1299,12 +1286,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="Nick Premium" />
-			<Item Name="Nick Premium (S)" />
 			<File>Nick Premium.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="nicktoons" />
-			<Item Name="nicktoons (S)" />
 			<File>nicktoons.png</File>
 		</Channel>
 		<Channel>
@@ -1546,7 +1531,6 @@
 		<Channel>
 			<Item Name="Playhouse Disney" />
 			<Item Name="Disney Playhouse" />
-			<Item Name="Disney Playhouse (S)" />
 			<File>Playhouse Disney.png</File>
 		</Channel>
 		<Channel>
@@ -1871,7 +1855,6 @@
 		<Channel>
 			<Item Name="SciFi" />
 			<Item Name="Sci Fi" />
-			<Item Name="SciFi (KD)" />
 			<File>SciFi.png</File>
 		</Channel>
 		<Channel>
@@ -2372,7 +2355,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="tcm" />
-			<Item Name="tcm (a_S)" />
 			<File>tcm.png</File>
 		</Channel>
 		<Channel>
@@ -2467,7 +2449,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="TNT Serie" />
-			<Item Name="TNT Serie (KD)" />
 			<File>TNT Serie.png</File>
 		</Channel>
 		<Channel>
@@ -2478,7 +2459,6 @@
 		<Channel>
 			<Item Name="Toon Disney" />
 			<Item Name="Disney Toon" />
-			<Item Name="Disney Toon (S)" />
 			<File>Toon Disney.png</File>
 		</Channel>
 		<Channel>
