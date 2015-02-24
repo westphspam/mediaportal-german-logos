@@ -1809,8 +1809,16 @@
 		</Channel>
 		<Channel>
 			<Item Name="Russia Today" />
+			<Item Name="RT Arab" />
+			<Item Name="RT Esp" />
+			<Item Name="RT Esp HD" />
 			<Item Name="RT HD" />
-			<File>Russia Today.png</File>
+			<File>RT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RT DOC" />
+			<Item Name="RT Doc HD" />
+			<File>RTDoc.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Samanyolu TV" />
