@@ -147,7 +147,7 @@
 			<Item Name="ATV II">
 				<Provider>UPC Tirol</Provider>
 			</Item>
-			<File>atv2.png</File>
+			<File>ATV2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="AUSTRIA 9 TV" />
@@ -285,7 +285,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="BLUE MOVIE HD" />
-			<File>BLUE MOVIE HD.png</File>
+			<File>Blue Movie HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Body in Balance" />
@@ -800,7 +800,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="GOLDSTAR TV" />
-			<File>GOLDSTAR TV.png</File>
+			<File>GoldStarTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="GoTV" />
@@ -1597,11 +1597,11 @@
 		<Channel>
 			<Item Name="puls 4" />
 			<Item Name="puls 4 Austria" />
-			<File>puls 4.png</File>
+			<File>Puls 4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Puls4 HD" />
-			<File>Puls4 HD.png</File>
+			<File>Puls 4 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="QVC" />
