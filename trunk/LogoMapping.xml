@@ -130,11 +130,11 @@
 		<Channel>
 			<Item Name="ATV" />
 			<Item Name="ATV+" />
-			<File>ATV.png</File>
+			<File>Austria\ATV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ATV HD" />
-			<File>ATV HD.png</File>
+			<File>Austria\ATV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ATV Avrupa" />
@@ -147,11 +147,7 @@
 			<Item Name="ATV II">
 				<Provider>UPC Tirol</Provider>
 			</Item>
-			<File>ATV2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="AUSTRIA 9 TV" />
-			<File>AUSTRIA 9 TV.png</File>
+			<File>Austria\ATV2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Auto Motor Sport" />
@@ -442,10 +438,6 @@
 			<File>Das Erste.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Das Vierte" />
-			<File>Das Vierte.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Daystar TV" />
 			<File>Daystar TV.png</File>
 		</Channel>
@@ -566,7 +558,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="EnjoyTheAlpsTV HD" />
-			<File>EnjoyTheAlpsTV HD.png</File>
+			<File>Austria\EnjoyTheAlpsTV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ERF Eins" />
@@ -718,7 +710,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="flimmit" />
-			<File>flimmit.png</File>
+			<File>Austria\flimmit.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="FOCUS Gesundheit" />
@@ -878,7 +870,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Hitradio OE3" />
-			<File>Hitradio OE3.png</File>
+			<File>Austria\Hitradio OE3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="hustler" />
@@ -1355,7 +1347,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="ORF1" />
-			<File>ORF1.png</File>
+			<File>Austria\ORF1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF1 HD">
@@ -1364,119 +1356,119 @@
 			<Item Name="ORF eins HD">
 				<Provider>UPC Tirol</Provider>
 			</Item>
-			<File>ORF1 HD.png</File>
+			<File>Austria\ORF1 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 B" />
-			<File>ORF2 B.png</File>
+			<File>Austria\ORF2 B.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2" />
-			<File>ORF2.png</File>
+			<File>Austria\ORF2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 K" />
-			<File>ORF2 K.png</File>
+			<File>Austria\ORF2 K.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 N" />
-			<File>ORF2 N.png</File>
+			<File>Austria\ORF2 N.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 O" />
-			<File>ORF2 O.png</File>
+			<File>Austria\ORF2 O.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 S" />
-			<File>ORF2 S.png</File>
+			<File>Austria\ORF2 S.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 St" />
-			<File>ORF2 St.png</File>
+			<File>Austria\ORF2 St.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 T" />
-			<File>ORF2 T.png</File>
+			<File>Austria\ORF2 T.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 V" />
-			<File>ORF2 V.png</File>
+			<File>Austria\ORF2 V.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 W" />
-			<File>ORF2 W.png</File>
+			<File>Austria\ORF2 W.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2E" />
-			<File>ORF2E.png</File>
+			<File>Austria\ORF2E.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 HD" />
-			<File>ORF2 HD.png</File>
+			<File>Austria\ORF2 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2B HD" />
 			<Item Name="ORF 2 Burgenland HD" />
-			<File>ORF2B HD.png</File>
+			<File>Austria\ORF2B HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2K HD" />
 			<Item Name="ORF 2 Kärten HD" />
-			<File>ORF2K HD.png</File>
+			<File>Austria\ORF2K HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2N HD" />
 			<Item Name="ORF 2 Niederösterreich HD" />
-			<File>ORF2N HD.png</File>
+			<File>Austria\ORF2N HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2O HD" />
 			<Item Name="ORF 2 Oberösterreich HD" />
-			<File>ORF2O HD.png</File>
+			<File>Austria\ORF2O HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2S HD" />
 			<Item Name="ORF 2 Salzburg HD" />
-			<File>ORF2S HD.png</File>
+			<File>Austria\ORF2S HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2St HD" />
 			<Item Name="ORF 2 Steiermark HD" />
-			<File>ORF2St HD.png</File>
+			<File>Austria\ORF2St HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF 2 Tirol HD" />
 			<Item Name="ORF2T HD" />
-			<File>ORF2T HD.png</File>
+			<File>Austria\ORF2T HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2V HD" />
 			<Item Name="ORF 2 Vorarlberg HD" />
-			<File>ORF2V HD.png</File>
+			<File>Austria\ORF2V HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF2W HD" />
 			<Item Name="ORF2Wien HD" />
-			<File>ORF2W HD.png</File>
+			<File>Austria\ORF2W HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF III" />
 			<Item Name="orf3" />
-			<File>ORF III.png</File>
+			<File>Austria\ORF III.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF III HD" />
-			<File>ORF III HD.png</File>
+			<File>Austria\ORF III HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF SPORT PLUS" />
 			<Item Name="ORF SPORT+" />
 			<Item Name="orfsportplus" />
-			<File>ORF Sport Plus.png</File>
+			<File>Austria\ORF Sport Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF SPORT+ HD" />
-			<File>ORF Sport Plus HD.png</File>
+			<File>Austria\ORF Sport Plus HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Parlamentsfernsehen" />
@@ -1597,11 +1589,11 @@
 		<Channel>
 			<Item Name="puls 4" />
 			<Item Name="puls 4 Austria" />
-			<File>Puls 4.png</File>
+			<File>Austria\Puls 4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Puls4 HD" />
-			<File>Puls 4 HD.png</File>
+			<File>Austria\Puls 4 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="QVC" />
@@ -2409,11 +2401,11 @@
 		</Channel>
 		<Channel>
 			<Item Name="Tirol TV" />
-			<File>Tirol TV.png</File>
+			<File>Austria\Tirol TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tirol TV HD" />
-			<File>Tirol TV HD.png</File>
+			<File>Austria\Tirol TV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="tividi" />
@@ -2752,10 +2744,6 @@
 		<Channel>
 			<Item Name="zdfneo_KiKa" />
 			<File>zdfneo_KiKa.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="ZDFtheaterkanal" />
-			<File>ZDFtheaterkanal.png</File>
 		</Channel>
 	</TV>
 
