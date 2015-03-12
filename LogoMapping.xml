@@ -65,10 +65,6 @@
 			<File>Alex Berlin.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="alpenglühen tvx" />
-			<File>alpengluehen tvx.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Animal Planet" />
 			<File>Animal Planet.png</File>
 		</Channel>
@@ -188,11 +184,17 @@
 		</Channel>
 		<Channel>
 			<Item Name="BBC Entertainment" />
+			<Item Name="BBC Entertainment Europe">
+				<Provider>SalzburgAG</Provider>
+			</Item>
 			<File>BBC Entertainment.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BBC World News" />
 			<Item Name="BBC World" />
+			<Item Name="BBC-World">
+				<Provider>SalzburgAG</Provider>
+			</Item>
 			<Item Name="BBC World News (engl)">
 				<Provider>KDG</Provider>
 			</Item>
@@ -420,6 +422,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="DW-TV" />
+			<Item Name="DW-TV EUROPA">
+				<Provider>SalzburgAG</Provider>
+			</Item>
 			<File>DW-TV.png</File>
 		</Channel>
 		<Channel>
@@ -579,10 +584,6 @@
 		<Channel>
 			<Item Name="ESPN Classic" />
 			<File>ESPN Classic.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="EinsExtra" />
-			<File>EinsExtra.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="EinsFestival HD" />
@@ -771,20 +772,6 @@
 				<Provider>KabelBW</Provider>
 			</Item>
 			<File>GINX.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="GLITZ" />
-			<Item Name="glitz*">
-				<Provider>KDG</Provider>
-			</Item>
-			<File>GLITZ.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Glitz HD" />
-			<Item Name="glitz* HD">
-				<Provider>KDG</Provider>
-			</Item>
-			<File>Glitz HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="GOD Channel" />
@@ -1060,6 +1047,9 @@
 			</Item>
 			<Item Name="MDR HD">
 				<Provider>UPC Tirol</Provider>
+			</Item>
+			<Item Name="MDR Fernsehen HD">
+				<Provider>SalzburgAG</Provider>
 			</Item>
 			<File>MDR Fernsehen HD.png</File>
 		</Channel>
@@ -1380,6 +1370,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="ORF2 S" />
+			<Item Name="ORF2 Salzburg">
+				<Provider>SalzburgAG</Provider>
+			</Item>
 			<File>Austria/ORF2 S.png</File>
 		</Channel>
 		<Channel>
@@ -1828,6 +1821,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="SAT.1 A" />
+			<Item Name="Sat.1 Austria">
+				<Provider>SalzburgAG</Provider>
+			</Item>
 			<File>SAT.1 A.png</File>
 		</Channel>
 		<Channel>
@@ -1868,7 +1864,7 @@
 			<Item Name="ServusTV HD">
 				<Provider>KabelBW</Provider>
 			</Item>
-			<File>Servus TV HD.png</File>
+			<File>Austria/ServusTV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ServusTV" />
@@ -1876,7 +1872,7 @@
 			<Item Name="Servus TV SD" />
 			<Item Name="ServusTV Deutschland" />
 			<Item Name="ServusTV Oesterreich" />
-			<File>ServusTV.png</File>
+			<File>Austria/ServusTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SF1" />
@@ -2299,6 +2295,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Super RTL A" />
+			<Item Name="Super RTL Austria">
+				<Provider>SalzburgAG</Provider>
+			</Item>
 			<File>Super RTL A.png</File>
 		</Channel>
 		<Channel>
@@ -2571,6 +2570,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="VIVA AUT" />
+			<Item Name="VIVA Österreich">
+				<Provider>SalzburgAG</Provider>
+			</Item>
 			<File>VIVA AUT.png</File>
 		</Channel>
 		<Channel>
@@ -2701,6 +2703,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="yourfamily"/>
+			<Item Name="Your Family Entertainment">
+				<Provider>SalzburgAG</Provider>
+			</Item>
 			<File>yourfamily.png</File>
 		</Channel>
 		<Channel>
