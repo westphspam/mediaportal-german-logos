@@ -2125,6 +2125,18 @@
 			<File>sky select.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Select Event A" />
+			<File>sky select Event A.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Select Event B" />
+			<File>sky select Event B.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Service" />
+			<File>sky service.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="sky sport 1" />
 			<File>sky sport 1.png</File>
 		</Channel>
